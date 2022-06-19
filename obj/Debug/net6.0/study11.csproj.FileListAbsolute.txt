@@ -1,0 +1,15 @@
+C:\C#\study11\study11\bin\Debug\net6.0\study11.exe
+C:\C#\study11\study11\bin\Debug\net6.0\study11.deps.json
+C:\C#\study11\study11\bin\Debug\net6.0\study11.runtimeconfig.json
+C:\C#\study11\study11\bin\Debug\net6.0\study11.dll
+C:\C#\study11\study11\bin\Debug\net6.0\study11.pdb
+C:\C#\study11\study11\obj\Debug\net6.0\study11.csproj.AssemblyReference.cache
+C:\C#\study11\study11\obj\Debug\net6.0\study11.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\study11\study11\obj\Debug\net6.0\study11.AssemblyInfoInputs.cache
+C:\C#\study11\study11\obj\Debug\net6.0\study11.AssemblyInfo.cs
+C:\C#\study11\study11\obj\Debug\net6.0\study11.csproj.CoreCompileInputs.cache
+C:\C#\study11\study11\obj\Debug\net6.0\study11.dll
+C:\C#\study11\study11\obj\Debug\net6.0\refint\study11.dll
+C:\C#\study11\study11\obj\Debug\net6.0\study11.pdb
+C:\C#\study11\study11\obj\Debug\net6.0\study11.genruntimeconfig.cache
+C:\C#\study11\study11\obj\Debug\net6.0\ref\study11.dll
